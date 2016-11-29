@@ -1,0 +1,2 @@
+This is test file. These characters should be counted and 
+arranged in order by the program.
